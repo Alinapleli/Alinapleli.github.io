@@ -4,6 +4,7 @@
 
 .u-section-1 .u-text-1 {
   width: 525px;
+  font-size: 2.25rem;
   margin: 60px auto 0;
 }
 
@@ -28,6 +29,11 @@
 .u-section-1 .u-text-3 {
   line-height: 2;
   margin: 58px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -203,14 +209,6 @@
 .u-section-2 .u-text-5 {
   width: 341px;
   margin: 0 auto;
-}
-
-.u-section-2 .u-btn-1 {
-  background-image: none;
-  border-style: none none solid;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0;
 }
 
 @media (max-width: 1199px) {
